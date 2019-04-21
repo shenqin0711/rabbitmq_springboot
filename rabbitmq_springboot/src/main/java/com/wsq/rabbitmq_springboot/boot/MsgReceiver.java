@@ -1,6 +1,6 @@
-package com.mq.mq_demo.boot;
+package com.wsq.rabbitmq_springboot.boot;
 
-import com.mq.mq_demo.boot.config.RabbitConfig;
+import com.wsq.rabbitmq_springboot.boot.config.RabbitConfig;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Component;
 

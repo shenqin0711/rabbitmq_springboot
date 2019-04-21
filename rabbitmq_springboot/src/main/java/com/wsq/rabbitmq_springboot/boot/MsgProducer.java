@@ -1,6 +1,6 @@
 package com.mq.mq_demo.boot;
 
-import com.mq.mq_demo.boot.config.RabbitConfig;
+import com.wsq.rabbitmq_springboot.boot.config.RabbitConfig;
 import org.springframework.amqp.rabbit.connection.CorrelationData;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
